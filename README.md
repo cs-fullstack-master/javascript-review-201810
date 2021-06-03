@@ -12,7 +12,7 @@ Write a function in Javascript that having two integers `x1` and `x2` returns al
 
 Write a function that writes in the console the multiplication table (from 1 to 10)
 
-![multiplication](https://github.com/Kevin-CodeCrew/exercises-javascript/blob/master/01-first-steps/img/multiplication-table.png?raw=true)
+![multiplication](./multiplication-table.png?raw=true)
 
 
 ### Multiplications table on demand
@@ -67,7 +67,7 @@ So the result can be (for these cases):
     “rgb(0,255,0)   verde”;
 
 ## Create a user feedback form using prompt
-Normally you would have a form but for this challenge, just use prompts to collect the 3 pieces of required information. 
+You can use an HTML form or console prompts to collect the 3 pieces of required information. 
 Name, issue, and steps to reproduce the error.
 
 - Prompt for the User's name
