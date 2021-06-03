@@ -14,7 +14,6 @@ Write a function that writes in the console the multiplication table (from 1 to 
 
 ![multiplication](https://github.com/Kevin-CodeCrew/exercises-javascript/blob/master/01-first-steps/img/multiplication-table.png?raw=true)
 
-_Hint: https://msdn.microsoft.com/en-us/library/2yfce773(v=vs.94).aspx_
 
 ### Multiplications table on demand
 
